@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @macs270500
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, C#, Python, HTML, CSS, JavaScript and PHP
+- 🌱 I’m currently learning Java, C#, Python, HTML, CSS, SCSS, JavaScript and PHP
 - 💞️ I’m looking to collaborate on my website development assignment
 - 📫 How to reach me Email: macs270500@gmail.com
